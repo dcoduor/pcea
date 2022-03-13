@@ -1,0 +1,9 @@
+[22-Nov-2017 14:20:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/greenso1/public_html/portal/mydashboard.php on line 525
+[25-Nov-2017 18:21:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/greenso1/public_html/portal/mydashboard.php on line 525
+[29-Nov-2017 11:56:08 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/greenso1/public_html/portal/group_msg.php on line 40
+[03-Dec-2017 16:44:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/greenso1/public_html/portal/professional_forum_topic.php:17) in /home/greenso1/public_html/portal/forum.php on line 2
+[03-Dec-2017 16:44:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/greenso1/public_html/portal/professional_forum_topic.php:17) in /home/greenso1/public_html/portal/forum.php on line 2
+[03-Dec-2017 16:44:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greenso1/public_html/portal/professional_forum_topic.php:17) in /home/greenso1/public_html/portal/forum.php on line 6
+[03-Dec-2017 16:44:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/greenso1/public_html/portal/forum.php on line 505
+[05-Dec-2017 18:06:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/greenso1/public_html/portal/mydashboard.php on line 525
+[05-Dec-2017 18:06:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greenso1/public_html/portal/registration.php on line 93
